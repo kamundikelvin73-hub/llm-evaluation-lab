@@ -73,7 +73,3 @@ llm-evaluation-lab/
 3. Detecting hallucinations
 4. Reviewing unsafe or biased output
 5. Creating annotation feedback for AI improvement
-
-## Disclaimer
-
-All examples in this repository are synthetic and created for educational, portfolio, and AI evaluation demonstration purposes. No confidential client, employer, student, patient, or platform data is used.
